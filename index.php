@@ -1,7 +1,5 @@
 <?php
 
-    include_once 'moneyFormat.php';
-
 if(isset($_POST['submit'])){
 
     $startVal    =  $_POST['startVal'];
